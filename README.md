@@ -2,7 +2,7 @@
 
 <h3>
     
-```html
+```python
 
 class webDeveloper(type):
     def __new__(cls, name, bases, attrs):
